@@ -1,7 +1,5 @@
 package edu.utep.cs.cs1290.final_exam;
 
-import java.util.Arrays;
-
 public class PerfectSquares {
 	
 	public static int numSquares(int n) {
