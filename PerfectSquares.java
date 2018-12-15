@@ -3,7 +3,7 @@ package edu.utep.cs.cs1290.final_exam;
 public class PerfectSquares {
 	
 	public static int numSquares(int n) {
-		// will return last element
+		
 		int[] dp = new int[n + 1];
 		dp[0] = 0;
 		
