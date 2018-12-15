@@ -6,6 +6,8 @@ my main goal is to find the longest pair that can be formed. In order to solve t
 i will need to solve a smaller problem:to find some kind of data base to store what 
 the length of the chain is while traversing it.
 
+//  dp[j] = Math.max(dp[j], dp[i] + 1);
+
 2.Briefly talk about how you plan to store solutions to sub-problems and combining them to solve the global problem
 
 for this problem i plan on using an int array. The array will be filled with the max length of the chain
