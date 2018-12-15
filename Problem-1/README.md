@@ -4,6 +4,8 @@
 
 my main goal is to find the least # of perfect square numbers that will add up to n. In order to solve this, i will need to solve a smaller problem: to find some kind of data base to store the amount of perfect squares needed to solve the current number until I reach n.
 
+//dp[i] = min;
+
 2.Briefly talk about how you plan to store solutions to sub-problems and combining them
 to solve the global problem
 
