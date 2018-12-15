@@ -6,6 +6,7 @@ my main goal is to find how many palindromic substrings are in the string. In or
 i will need to solve a smaller problem: to find some kind of data base to store if at my current pointers,
 the characters are the same.
 
+//dp[i][j] = s.charAt(i) == s.charAt(j) && (j - i < 3 || dp[i + 1][j - 1])
 
 2.Briefly talk about how you plan to store solutions to sub-problems and combining them to solve the global problem
 
