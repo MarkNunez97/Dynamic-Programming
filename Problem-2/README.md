@@ -1,4 +1,4 @@
-perfect square
+Partition to K Equal Sum Subsets
 
 1.Define the problem/solution recursively 
 
